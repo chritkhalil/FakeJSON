@@ -1,0 +1,21 @@
+{
+ "categories" : [
+   {
+     "displayName" : "TEST123",
+     "levels" : [
+       {
+        "levelFileURL" : "https://raw.githubusercontent.com/chritkhalil/FakeJSON/main/resources/baby-fox-in-a-mask.txt",
+         "coinsToAward" : 0,
+         "locked" : false,
+         "coinsToUnlock" : 0
+       },
+       {
+        "levelFileURL" : "https://raw.githubusercontent.com/chritkhalil/FakeJSON/main/resources/bat-cat-and-pumpkin.txt",
+         "coinsToAward" : 0,
+         "locked" : true,
+         "coinsToUnlock" : 0
+       }
+     ]
+   }
+ ] 
+}
