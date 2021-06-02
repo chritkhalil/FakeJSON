@@ -16,6 +16,17 @@
          "coinsToUnlock" : 0
        }
      ]
-   }
+   },
+   {
+    "displayName" : "TEST12345",
+    "levels" : [
+      {
+       "levelFileURL" : "https://raw.githubusercontent.com/chritkhalil/FakeJSON/main/resources/cartoon-roman-soldier.txt",
+        "coinsToAward" : 0,
+        "locked" : false,
+        "coinsToUnlock" : 0
+      }
+    ]
+  }
  ] 
 }
