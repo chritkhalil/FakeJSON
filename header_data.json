@@ -2,13 +2,13 @@
     "images" : [
       {
         "url" : "https://raw.githubusercontent.com/chritkhalil/FakeJSON/main/resources/creative-bg.jpg",
-        "category_id" : "1",
+        "category_id" : 1,
         "title": "Creative Characters",
         "test_color": "#000000"
       },
       {
         "url" : "https://raw.githubusercontent.com/chritkhalil/FakeJSON/main/resources/marvel-bg.jpg",
-        "category_id" : "1",
+        "category_id" : 1,
         "title": "Marvel",
         "test_color": "#FF0000"
       }
