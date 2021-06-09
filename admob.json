@@ -1,0 +1,10 @@
+{
+    "AdMob" : 
+      {
+        "AppId" : "https://raw.githubusercontent.com/chritkhalil/FakeJSON/main/resources/creative-bg.jpg",
+        "BannerPlacementId" : 1,
+        "InterstitialPlacementId": "FEATURED",
+        "RewardPlacementId": "#FFFFFF"
+      }
+}
+   
